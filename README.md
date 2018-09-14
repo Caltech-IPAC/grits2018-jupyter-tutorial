@@ -2,6 +2,8 @@
 
 Jupyter notebook tutorial materials for GRITS 2018
 
+(drawing upon the Jupyterlab tutorial at SciPy2018 https://github.com/jupyterlab/scipy2018-jupyterlab-tutorial)
+
 ## Outline
 
 * 9:00 - 9:20 Introductory talk and small notebook demo (D. Shupe)
@@ -11,9 +13,9 @@ Jupyter notebook tutorial materials for GRITS 2018
 * 9:55 - 10:00 Review second exercise
 * 10:00 - 10:25 Example notebooks from NASA-NAVO (V. Desai)
 
-* 10:25 - 10:45 Break
+* 10:25 - 10:40 Break
 
-* 10:45 - 12:00 Jupyterlab / Jupyterhub in the cloud (A. Thornton, S. Krughoff, LSST-Tucson)
+* 10:40 - 12:00 Jupyterlab / Jupyterhub in the cloud (A. Thornton, S. Krughoff, LSST-Tucson)
 
 ## Installation instructions
 
